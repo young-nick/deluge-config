@@ -1,0 +1,11 @@
+state/
+plugins/
+ssl/
+icons/
+*~
+auth
+*.pid
+*.backup
+*.edited
+*.state
+
